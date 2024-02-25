@@ -1,0 +1,28 @@
+{
+  "id": "staJP",
+  "title": "スタートレックアドベンチャー日本語化MOD",
+  "description": "FoundryVTTのシステムに日本語を追加します。",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "dreamfv"
+    }
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "ja.json"
+    }
+  ],
+  "url": "https://github.com/dreamfv/staJP",
+  "manifest": "https://raw.githubusercontent.com/dreamfv/staJP/main/module.json",
+  "download": "https://github.com/dreamfv/staJP/archive/refs/heads/main.zip"
+}
